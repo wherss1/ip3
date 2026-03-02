@@ -1,66 +1,75 @@
-[2606:4700:57:6cfc:a102:60f3:5b71:bd14]:8443#🇭🇰 香港v6
-[2606:4700:57:3408:b8d5:5344:7298:4de4]:2053#🇭🇰 香港v6
-[2606:4700:57:b735:f763:f42d:2b92:e8e]:2053#🇭🇰 香港v6
-[2606:4700:57:6ee7:5d12:c14b:8f7a:cbf6]:2087#香港_ipv6 2087
-[2606:4700:57:213e:832d:b34:b47:84c8]:2087#香港_ipv6 2087
-[2606:4700:57:7f69:2d8e:5e87:b00c:8969]:2087#香港_ipv6 2087
-[2606:4700:57:9f64:d8f:c660:3541:f36a]:2087#香港_ipv6 2087
-[2606:4700:57:d899:3b4d:af0d:4199:274c]:2087#香港_ipv6 2087
-[2606:4700:57:3e43:e427:2972:1d34:e744]:2087#香港_ipv6 2087
-[2606:4700:57:ede6:6749:959a:e9ac:7060]:2087#香港_ipv6 2087
-[2606:4700:57:b589:95c4:c38e:4a56:30f5]:2087#香港_ipv6 2087
-[2606:4700:57:5871:9d9f:7362:221:c31c]:2087#香港_ipv6 2087
-[2606:4700:57:47ec:e965:1a21:6e39:6c7d]:2087#香港_ipv6 2087
-[2606:4700:57:4f78:e6b9:9c8a:4d23:8af9]:2083#香港_ipv6 2083
-[2606:4700:57:3f53:36b:ec59:272b:e53c]:2083#香港_ipv6 2083
-[2606:4700:57:ae70:df72:50f1:57e1:74a4]:2083#香港_ipv6 2083
-[2606:4700:57:b16b:ae43:688:4c42:6466]:2083#香港_ipv6 2083
-[2606:4700:57:3951:5a30:46b8:2218:dc1c]:2083#香港_ipv6 2083
-[2606:4700:57:8fac:e3bc:fbf9:162e:72c3]:2083#香港_ipv6 2083
-[2606:4700:57:f69a:69e:dbeb:1a54:e8d3]:2083#香港_ipv6 2083
-[2606:4700:57:cc9c:b84:a837:ee97:10b4]:2083#香港_ipv6 2083
-[2606:4700:57:1fcd:2c56:e892:c637:43e1]:2083#香港_ipv6 2083
-[2606:4700:57:d66:7fb0:78f5:d7c7:2430]:2083#香港_ipv6 2083
-[2606:4700:57:d7d3:f4ca:b335:3bf8:c455]:8443#香港_ipv6 8443
-[2606:4700:57:ab46:3c6d:6ca2:a507:fc59]:8443#香港_ipv6 8443
-[2606:4700:57:9bde:6572:eaac:4638:39e6]:8443#香港_ipv6 8443
-[2606:4700:57:3281:2088:2e92:44a8:1d38]:8443#香港_ipv6 8443
-[2606:4700:57:b622:84a8:b8b8:13fd:95eb]:8443#香港_ipv6 8443
-[2606:4700:57:f364:5e4b:f237:7c93:736]:8443#香港_ipv6 8443
-[2606:4700:57:9ae8:7364:657c:9069:25c6]:8443#香港_ipv6 8443
-[2606:4700:57:2d0b:ade4:14fe:6887:b108]:8443#香港_ipv6 8443
-[2606:4700:57:4ec4:6442:72af:f8d4:8904]:8443#香港_ipv6 8443
-[2606:4700:57:9814:3db6:3751:d88a:b271]:8443#香港_ipv6 8443
-[2606:4700:57:1332:2d0e:5ab2:f0cd:265c]:2096#香港-ipv6
-[2606:4700:57:d476:983a:62cd:3205:cb6c]:2096#香港-ipv6
-[2606:4700:57:cb2c:fa9c:a7e1:47c8:9c8f]:2096#香港-ipv6
-[2606:4700:57:ba74:3637:cd87:3bf5:b80d]:2096#香港-ipv6
-[2606:4700:57:98d3:8784:5258:6602:ff2]:2096#香港-ipv6
-[2606:4700:57:317:7170:6358:1f47:855b]:2096#香港-ipv6
-[2606:4700:57:b6e4:af2a:bfd7:9abb:5e2a]:2096#香港-ipv6
-[2606:4700:57:ba2:958f:bf1c:ed74:ce4]:2096#香港-ipv6
-[2606:4700:57:445b:d8b3:a75b:162f:1463]:2096#香港-ipv6
-[2606:4700:57:c64d:36a1:a1ef:45d7:ea91]:2096#香港-ipv6
-[2606:4700:57:b3cf:55b8:9560:d97a:95fb]:2096#香港-ipv6
-[2606:4700:57:6476:95be:b0f8:2b4b:67ab]:2096#香港-ipv6
-[2606:4700:57:22a1:bb6e:faad:c6f2:42c9]:2096#香港-ipv6
-[2606:4700:57:ab60:46e4:2604:cd14:9076]:2096#香港-ipv6
-[2606:4700:57:a2ff:69c0:9715:4ca6:c2]:2096#香港-ipv6
-[2606:4700:57:482e:9f74:440:39a0:7630]:2096#香港-ipv6
-[2606:4700:57:4bb9:95d5:b924:b16e:41c3]:2096#香港-ipv6
-[2606:4700:57:ebd4:ed6b:4793:7b6:f2e4]:2096#香港-ipv6
-[2606:4700:57:dba9:9125:7d4a:587c:1ab1]:2096#香港-ipv6
-[2606:4700:57:b3e7:89c6:d674:569e:fdc1]:2096#香港-ipv6
-[2606:4700:57:3935:7f64:1fbe:189b:6338]:2053#香港-ipv6
-[2606:4700:57:c62b:ee55:ffcf:ab87:ad85]:2053#香港-ipv6
-[2606:4700:57:e209:c1a:a6eb:8025:1990]:2053#香港-ipv6
-[2606:4700:57:b6f1:2d90:946f:202e:b7b2]:2053#香港-ipv6
-[2606:4700:57:189a:6a0c:831a:307e:f8c]:2053#香港-ipv6
-[2606:4700:57:5b4e:e3f0:a9aa:73a:2f7c]:2053#香港-ipv6
-[2606:4700:57:57a4:71c2:af8a:ef43:15ca]:2053#香港-ipv6
-[2606:4700:57:7dac:34ff:e494:86b6:2507]:2053#香港-ipv6
-[2606:4700:57:476:ab2a:3661:332b:dd14]:2053#香港-ipv6
-[2606:4700:57:a7a5:19f0:88e:ce2b:73b6]:2053#香港-ipv6
+www.visa.hk#hk
+www.baipiao.eu.org#hk
+www.d-555.com#hk
+download.yunzhongzhuan.com#hk
+cf.zhetengsha.eu.org#hk
+yx.887141.xyz#hk
+8.889288.xyz#hk
+cf.877774.xyz#hk
+cmcc.877774.xyz#hk
+cf.877774.xyz#hk
+icook.hk#hk
+www.visa.com.hk#hk
+achk.cloudflarest.link#hk
+cfip.1323123.xyz#hk
+cf.515188.xyz#hk
+cf.877771.xyz#hk
+cf.345673.xyz#hk
+icook.tw#tw
+www.visa.com.tw#tw
+www.visakorea.com#kr
+japan.com#jp
+skk.moe#jp
+www.visa.co.jp#jp
+acjp2.cloudflarest.link#jp
+xn--b6gac.eu.org#th
+singapore.com#sg
+www.visa.com.sg#sg
+malaysia.com#my
+www.boba88slot.com#my
+www.ipaddress.my#my
+russia.com#ru
+palera.in#in
+www.gco.gov.qa#qa
+www.gov.ua#ua
+gur.gov.ua#ua
+www.zsu.gov.ua#ua
+www.gov.se#se
+www.wto.org#ch
+www.who.int#ch
+www.wto.org#ch
+alejandracaiccedo.com#es
+time.is#is
+fbi.gov#us
+shopify.com#us
+ip.sb#us
+www.visa.com#us
+www.digitalocean.com#us
+www.csgo.com#us
+www.shopify.com#us
+www.whoer.net#us
+www.whatismyip.com#us
+www.ipget.net#us
+www.hugedomains.com#us
+www.udacity.com#us
+www.4chan.org#us
+www.okcupid.com#us
+www.glassdoor.com#us
+www.udemy.com#us
+log.bpminecraft.com#us
+www.iakeys.com#us
+edtunnel-dgp.pages.dev#us
+fbi.gov#us
+www.sean-now.com#us
+whatismyipaddress.com#us
+www.pcmag.com#us
+www.ipchicken.com#us
+www.iplocation.net#us
+iplocation.io#us
+bestcf.onecf.eu.org#us
+cf-st.annoy.eu.org#us
+cf.0sm.com#us
+cfip.xxxxxxxx.tk#other
 172.64.154.34:2096#🇭🇰-香港
 104.17.145.75:2096#🇭🇰-香港
 198.41.209.132:2096#🇭🇰-香港
